@@ -21,10 +21,11 @@ Todos os dados trafegados entre o app e os servidores são protegidos por cripto
 ## 📩 Direitos do usuário
 
 O usuário pode solicitar a exclusão de seus dados ou tirar dúvidas sobre esta política a qualquer momento pelo e-mail:  
-**suporte@tronaccess.com**
+**tronsmartportao@gmail.com**
 
 ## 📜 Conformidade
 
 Esta política está em conformidade com a Lei Geral de Proteção de Dados (LGPD - Brasil) e com as diretrizes da Google Play.
 
 **Última atualização:** 24/09/2025
+
